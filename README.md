@@ -1,6 +1,6 @@
 # scrapy-chromedebugproto
 
-Example of how to integrate Scrapy with Chrome Debugging Protocol
+Example of how to integrate Scrapy with [Chrome Debugging Protocol](https://chromedevtools.github.io/debugger-protocol-viewer/)
 
 **WARNING: highly toxic code!! Not production-ready, not at all!!**
 You've been warned.
