@@ -29,3 +29,14 @@ DOWNLOADER_MIDDLEWARES = {
     'middleware.HeadlesschromeDownloaderMiddleware': 543,
 }
 ```
+
+## Todo
+
+- Handle non-HTTP 200 responses
+- switch debug logs on/off
+- configurable debugger URL
+- a proper state machine
+- make a Python package out of it
+- check how load and requests concurrency is handled
+- add tests
+- ...
