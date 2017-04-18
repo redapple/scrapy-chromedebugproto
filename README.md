@@ -40,3 +40,10 @@ DOWNLOADER_MIDDLEWARES = {
 - check how load and requests concurrency is handled
 - add tests
 - ...
+
+
+## Inspiration
+
+- https://github.com/fake-name/ChromeController
+- https://github.com/cyrus-and/chrome-remote-interface
+- https://github.com/bosondata/chrome-prerender
