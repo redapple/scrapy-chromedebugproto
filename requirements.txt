@@ -1,0 +1,4 @@
+scrapy
+treq
+twisted
+autobahn
